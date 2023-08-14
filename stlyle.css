@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(228, 157, 193);
+    font-family: 'Borel', cursive;
+    font-size: 30px;
+}
+.yo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+}
+.yo img{
+    border-radius: 50%;
+}
